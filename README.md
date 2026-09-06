@@ -31,7 +31,3 @@ This repository tracks core algorithmic concepts and data structure implementati
 * **Language:** C++ (C++17 / C++20)
 * **Compiler/IDE:** Visual Studio Code / Dev-C++ / GCC
 * **Build Command:**
-
-  ```bash
-  # Quick compile and run
-  g++ -O2 filename.cpp -o solution && ./solution
